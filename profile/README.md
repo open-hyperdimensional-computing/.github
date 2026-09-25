@@ -4,7 +4,7 @@
 >
 > Centralized intelligence, closed models, and expensive hardware seem to be the direction
 > technology firms have taken ever since *Attention Is All You Need* formed the last, and
-> not the final, era of AI models. The concentration of capability into a handful
+> not the final, era of AI. The concentration of capability into a handful
 > of walled republics, measured in gigawatts and guarded by proprietary weights, is not an
 > inevitable law of technology. It is a choice taken against the will of almost all developers and technologists.
 >
